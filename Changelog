@@ -2,8 +2,12 @@ Tecnologico! Modpack
 
 
 ------------------------------------------------------------------------
-VERSION:(Versione di Minecraft),(Numero maggiore),(Numero minore)
-BUILDING:(Versione di Minecraft),(giorno,mese,anno,lettera correzioni),(versione aggiuntiva)
+(Versione di Minecraft)-VERSION:(Numero maggiore),(Numero minore)
+(Versione di Minecraft)-BUILDING:(giorno,mese,anno,lettera correzioni),(versione aggiuntiva)
+Update
+PER LE MOD AGGIORNATE
+Recap
+-RECAP DI TUTTE LE AGGIUNTE E LE MODIFICHE DELLA VERSIONE BETA
 Added
 -PER LE NUOVE FUNZIONALITÀ
 Changed
@@ -17,8 +21,29 @@ Tag GitHub:(Aggiungere tag)
 ------------------------------------------------------------------------
 
 
-BUILDING:07.02.2022a
+1.16-BUILDING:07.02.2022a
+
 -Versione Iniziale
 
 BUILDINGS are development versions and may be incomplete.
 Tag GitHub: JE-0a
+
+
+1.16-BUILDING:08.02.2022a
+
+Added
+-Tree Harvester mod
+-Enchantment Descriptions mod
+-FastFurnace mod
+-FastWorkbench mod
+-FindMe mod
+-Ore Excavation mod
+-The Twilight Forest mod
+
+Update
+
+-Botany Pots
+-GraveStone Mod
+-Industrial Foregoing
+-JourneyMap
+-Titanium
