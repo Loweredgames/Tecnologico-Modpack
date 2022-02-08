@@ -32,13 +32,12 @@ Tag GitHub: JE-0a
 1.16-BUILDING:08.02.2022a
 
 Added
--Tree Harvester mod
--Enchantment Descriptions mod
--FastFurnace mod
--FastWorkbench mod
--FindMe mod
--Ore Excavation mod
--The Twilight Forest mod
+-Enchantment Descriptions
+-FastFurnace
+-FastWorkbench
+-FindMe
+-Ore Excavation
+-The Twilight Forest
 
 Update
 
@@ -47,3 +46,6 @@ Update
 -Industrial Foregoing
 -JourneyMap
 -Titanium
+
+BUILDINGS are development versions and may be incomplete.
+Tag GitHub: JE-1a
