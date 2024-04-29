@@ -1,0 +1,13 @@
+filename = 'crawlondemand-1.20.x-1.0.0.jar'
+name = 'Crawl on Demand'
+side = 'both'
+
+[download]
+hash = '2c14827efe411ebb93fda05d26a848a5c96688c7818ee8174599b578c3ed6218396bd7d77f4097721f8bc73b30677053f4bd2401482c6596c4656364ff5bf10f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wcXLQVhg/versions/MoMoLVq4/crawlondemand-1.20.x-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'wcXLQVhg'
+version = 'MoMoLVq4'

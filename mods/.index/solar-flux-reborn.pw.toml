@@ -1,0 +1,13 @@
+filename = 'SolarFluxReborn-1.20.1-20.1.2.jar'
+name = 'Solar Flux Reborn'
+side = 'both'
+
+[download]
+hash = '81d30ad4a9073fd5c4c3ce8212c095545912b2d51a4660d4697e4dbe35c7e8b6fd7ed89990db68f4af8b4b347dccae0b293a179668a690722b201adbbdbcee91'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4QG5lev4/versions/KiLmf6d4/SolarFluxReborn-1.20.1-20.1.2.jar'
+
+[update.modrinth]
+mod-id = '4QG5lev4'
+version = 'KiLmf6d4'
